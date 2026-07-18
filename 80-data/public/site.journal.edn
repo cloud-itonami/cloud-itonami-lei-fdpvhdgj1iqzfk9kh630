@@ -1,0 +1,5 @@
+[["eastman-site-1" :site/url "https://www.eastman.com" 1 :add]
+ ["eastman-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["eastman-site-1" :site/http-status 200 1 :add]
+ ["eastman-site-1" :site/title "Eastman | Material Innovation Company" 1 :add]
+ ["eastman-site-1" :site/description "Driven by more than 100 years of continuous innovation, Eastman is a global specialty materials company." 1 :add]]
