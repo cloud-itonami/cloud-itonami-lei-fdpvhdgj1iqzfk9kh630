@@ -2,4 +2,5 @@
  :company/lei "FDPVHDGJ1IQZFK9KH630"
  :company/jurisdiction "US-TN"
  :company/website "https://www.eastman.com"
- :company/ticker "EMN (NYSE)"}
+ :company/ticker "EMN (NYSE)"
+ :company/inquiry-form-url "https://www.eastman.com/en/contact-us"}
